@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="6.1.10" rev="18007">
+<pano2vrconfig rev="18007" version="6.1.10">
   <tour>
     <panorama>
       <input>
@@ -14,7 +14,7 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>90</start>
+          <start>0</start>
           <min>0</min>
           <max>360</max>
         </pan>
@@ -33,14 +33,14 @@
         </fov>
         <flyinstart>
           <pan>0</pan>
-          <tilt>-90</tilt>
-          <fov>170</fov>
+          <tilt>0</tilt>
+          <fov>90</fov>
         </flyinstart>
         <pannorth>0</pannorth>
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
-        <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2023-06-23T14:19:54</defaultviewtimestamp>
+        <flyinprojection>rectilinear</flyinprojection>
+        <defaultviewtimestamp>2023-06-23T14:31:18</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <capturedatetime>2023-06-22T14:30:21</capturedatetime>
