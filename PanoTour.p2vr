@@ -26,8 +26,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-165.56</pan>
-            <tilt>0.37</tilt>
+            <pan>-257.53</pan>
+            <tilt>-2.32</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -51,8 +51,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-251.65</pan>
-            <tilt>-1.25</tilt>
+            <pan>-343.5</pan>
+            <tilt>-2.64</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -76,8 +76,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-266.65</pan>
-            <tilt>-1.88</tilt>
+            <pan>-356.34</pan>
+            <tilt>-2.22</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -101,8 +101,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-276.2</pan>
-            <tilt>-1.41</tilt>
+            <pan>-5.91</pan>
+            <tilt>-2.26</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -126,8 +126,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-298.8</pan>
-            <tilt>-2.35</tilt>
+            <pan>-26.41</pan>
+            <tilt>-3.81</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -151,8 +151,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-43.4</pan>
-            <tilt>-3.4</tilt>
+            <pan>-140.81</pan>
+            <tilt>-4.63</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -654,7 +654,9 @@
       <streetview/>
       <streetviewproject/>
       <sounds/>
-      <animation/>
+      <animation>
+        <sequence/>
+      </animation>
     </panorama>
     <panorama>
       <input>
@@ -840,7 +842,7 @@
           <enabled>1</enabled>
           <filename>index.html</filename>
           <values>
-            <value id="css"></value>
+            <value id="css"/>
             <value id="gginfo">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -868,7 +870,6 @@
     <sounds/>
     <animation>
       <title>Animation01</title>
-      <sequence/>
     </animation>
   </panorama>
 </pano2vrconfig>
