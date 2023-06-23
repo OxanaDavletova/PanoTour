@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="18007" version="6.1.10">
+<pano2vrconfig version="6.1.10" rev="18007">
   <tour>
     <panorama>
       <input>
@@ -10,13 +10,37 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
+        <leveltimestamp>2023-06-23T14:19:38</leveltimestamp>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
-        <fov/>
-        <flyinstart/>
+        <pan>
+          <start>90</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>0</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
+        <fov>
+          <start>70</start>
+          <minunit>pixels</minunit>
+          <minpixels>2</minpixels>
+          <max>120</max>
+          <maxfovstereographic>270</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
+        </fov>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2023-06-23T14:19:54</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <capturedatetime>2023-06-22T14:30:21</capturedatetime>
@@ -820,6 +844,7 @@
       <sounds/>
       <id>node8</id>
     </panorama>
+    <start>node6</start>
   </tour>
   <panorama>
     <id>master</id>
