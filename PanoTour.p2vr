@@ -27,7 +27,7 @@
           <start>70</start>
           <minunit>pixels</minunit>
           <minpixels>2</minpixels>
-          <max>120</max>
+          <max>90</max>
           <maxfovstereographic>270</maxfovstereographic>
           <maxfovfisheye>360</maxfovfisheye>
         </fov>
@@ -220,6 +220,7 @@
         <fov/>
         <flyinstart/>
         <pannorth>0</pannorth>
+        <projection>rectilinear</projection>
       </viewingparameter>
       <userdata>
         <capturedatetime>2023-06-22T14:29:29</capturedatetime>
@@ -299,6 +300,7 @@
         <fov/>
         <flyinstart/>
         <pannorth>0</pannorth>
+        <projection>rectilinear</projection>
       </viewingparameter>
       <userdata>
         <capturedatetime>2023-06-22T14:28:00</capturedatetime>
@@ -378,6 +380,7 @@
         <fov/>
         <flyinstart/>
         <pannorth>0</pannorth>
+        <projection>rectilinear</projection>
       </viewingparameter>
       <userdata>
         <capturedatetime>2023-06-22T14:34:31</capturedatetime>
@@ -482,6 +485,7 @@
         <fov/>
         <flyinstart/>
         <pannorth>0</pannorth>
+        <projection>rectilinear</projection>
       </viewingparameter>
       <userdata>
         <capturedatetime>2023-06-22T14:28:28</capturedatetime>
@@ -561,6 +565,7 @@
         <fov/>
         <flyinstart/>
         <pannorth>0</pannorth>
+        <projection>rectilinear</projection>
       </viewingparameter>
       <userdata>
         <capturedatetime>2023-06-22T14:35:37</capturedatetime>
@@ -641,6 +646,7 @@
         <fov/>
         <flyinstart/>
         <pannorth>0</pannorth>
+        <projection>rectilinear</projection>
       </viewingparameter>
       <userdata>
         <capturedatetime>2023-06-22T14:27:29</capturedatetime>
@@ -697,6 +703,7 @@
         <fov/>
         <flyinstart/>
         <pannorth>0</pannorth>
+        <projection>rectilinear</projection>
       </viewingparameter>
       <userdata>
         <capturedatetime>2023-06-22T14:29:05</capturedatetime>
@@ -751,6 +758,7 @@
         <fov/>
         <flyinstart/>
         <pannorth>0</pannorth>
+        <projection>rectilinear</projection>
       </viewingparameter>
       <userdata>
         <capturedatetime>2023-06-22T14:29:55</capturedatetime>
@@ -805,6 +813,7 @@
         <fov/>
         <flyinstart/>
         <pannorth>0</pannorth>
+        <projection>rectilinear</projection>
       </viewingparameter>
       <userdata>
         <capturedatetime>2023-06-22T14:34:59</capturedatetime>
